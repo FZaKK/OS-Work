@@ -1,2 +1,2 @@
 # OS-Work
-The Assignment of the compiler course (NKU)
+The Assignment of the OS course (NKU)
